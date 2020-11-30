@@ -1,2 +1,5 @@
-"§9§lBUILDER-CRAFT", "builderNITRO.aternos.me"
-"§a§lLAUKEMER SERVER", "laukemer1.aternos.me"
+{
+   "builderNITRO.aternos.me":
+      "IP": "builderNITRO.aternos.me",
+      "NAME": "§9§lBUILDER-CRAFT"
+}
